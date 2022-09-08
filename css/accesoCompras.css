@@ -1,0 +1,17 @@
+#accesoCompras h3, h4 {
+    text-align: center;
+}
+#accesoCompras .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#accesoCompras article {
+    margin: 15px;
+}
+
+#accesoCompras img {
+    width: 100%;
+    max-width: 100%;
+}
